@@ -8,4 +8,5 @@ fitnesse/FitNesseRoot/PageFooter
 fitnesse/FitNesseRoot/PageHeader
 fitnesse/FitNesseRoot/TemplateLibrary
 fitnesse/FitNesseRoot/properties
-output
+output/fixtures
+output/production
