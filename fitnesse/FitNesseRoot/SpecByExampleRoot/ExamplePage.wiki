@@ -1,0 +1,12 @@
+
+!2 Calculator
+
+
+A calculator that implements the basic arithmetic operations of addition and multiplication.
+
+
+|Calculator                                                              |
+|first number|second number|result of addition?|result of multiplication?|
+|1           |2            |3                  |2                        |
+|3           |4            |7                  |12                       |
+|5           |9            |14                 |45                       |

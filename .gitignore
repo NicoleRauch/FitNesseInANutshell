@@ -1,0 +1,11 @@
+.idea
+RecentChanges.wiki
+*.xml
+*.zip
+fitnesse/FitNesseRoot/FitNesse
+fitnesse/FitNesseRoot/FrontPage
+fitnesse/FitNesseRoot/PageFooter
+fitnesse/FitNesseRoot/PageHeader
+fitnesse/FitNesseRoot/TemplateLibrary
+fitnesse/FitNesseRoot/properties
+output
